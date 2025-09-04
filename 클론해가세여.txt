@@ -1,5 +1,10 @@
 jeh
 kty
+<<<<<<< HEAD
 kjs
 kje
 나는은혠데다시수정한다
+=======
+kjs지선인데용
+kje
+>>>>>>> 9e97ac2dd696ddc48d6318b881e11a2dd98bf490
